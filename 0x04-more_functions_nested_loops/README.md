@@ -1,2 +1,1 @@
-#!bin/bash
-echo "More nested loops"
+0x04-more_functions-nested_loops
